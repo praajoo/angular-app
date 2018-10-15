@@ -1,1 +1,1 @@
-export * from './token.interceptor';
+export * from './http.token.interceptor';
